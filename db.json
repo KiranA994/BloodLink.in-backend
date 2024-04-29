@@ -10,6 +10,7 @@
       "id": 1
     }
   ],
-  "login":[],
-  "deleteUser":[]
+  "login": [],
+  "deleteUser": [],
+  "bloodInfo":[] 
 }
