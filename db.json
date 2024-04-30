@@ -8,9 +8,17 @@
       "location": "Alappuzha",
       "num": "8848266306",
       "id": 1
+    },
+    {
+      "name": "Kiran A",
+      "age": "28",
+      "email": "kiran@gmail.com",
+      "bloodGroup": "O",
+      "location": "kerala",
+      "num": "9842527890",
+      "id": 2
     }
   ],
   "login": [],
-  "deleteUser": [],
-  "bloodInfo":[] 
+  "register":[]
 }
