@@ -19,6 +19,18 @@
       "id": 2
     }
   ],
-  "login": [],
-  "register":[]
+  "create": [
+    {
+      "username": "kirana123",
+      "email": "kiran@gmail.com",
+      "password": "@3bkvncd8934",
+      "id": 1
+    },
+    {
+      "username": "najas143",
+      "email": "najas@gmail.com",
+      "password": "@3najdsdvhsv8*",
+      "id": 2
+    }
+  ]
 }
