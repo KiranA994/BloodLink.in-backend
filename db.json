@@ -19,6 +19,13 @@
       "id": 2
     }
   ],
-  "login": [],
-  "register":[]
+  "login": [
+    {
+      "username": "Najas06",
+      "email": "najasneju@gmail.com",
+      "password": "123",
+      "id": 1
+    }
+  ],
+  "register": []
 }
