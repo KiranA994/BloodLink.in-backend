@@ -17,6 +17,15 @@
       "location": "kerala",
       "num": "9842527890",
       "id": 2
+    },
+    {
+      "name": "Arun K",
+      "age": "26",
+      "email": "arun@gmail.com",
+      "bloodGroup": "AB",
+      "location": "kerala",
+      "num": "9745744546",
+      "id": 3
     }
   ],
   "create": [
@@ -31,6 +40,12 @@
       "email": "najas@gmail.com",
       "password": "@3najdsdvhsv8*",
       "id": 2
+    },
+    {
+      "username": "dummy",
+      "email": "dummy",
+      "password": "dummy",
+      "id": 3
     }
   ]
 }
