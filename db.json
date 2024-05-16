@@ -1,33 +1,5 @@
 {
-  "bloodData": [
-    {
-      "name": "Najas",
-      "age": "22",
-      "email": "najasneju@gmail.com",
-      "bloodGroup": "A",
-      "location": "Alappuzha",
-      "num": "8848266306",
-      "id": 1
-    },
-    {
-      "name": "Kiran A",
-      "age": "28",
-      "email": "kiran@gmail.com",
-      "bloodGroup": "O",
-      "location": "kerala",
-      "num": "9842527890",
-      "id": 2
-    },
-    {
-      "name": "Arun K",
-      "age": "26",
-      "email": "arun@gmail.com",
-      "bloodGroup": "AB",
-      "location": "kerala",
-      "num": "9745744546",
-      "id": 3
-    }
-  ],
+  "bloodData": [],
   "create": [
     {
       "username": "kirana123",
@@ -46,6 +18,18 @@
       "email": "dummy",
       "password": "dummy",
       "id": 3
+    },
+    {
+      "username": "sample1",
+      "email": "sample1",
+      "password": "sample1",
+      "id": 4
+    }
+  ],
+  "admin": [
+    {
+      "username": "admin123",
+      "password": "@!Adminuser09"
     }
   ]
 }
