@@ -1,5 +1,42 @@
 {
-  "bloodData": [],
+  "bloodData": [
+    {
+      "name": "Najas Nazar",
+      "age": "22",
+      "email": "najasneju@gmail.com",
+      "bloodGroup": "A",
+      "location": "Alappuzha",
+      "num": "8848266306",
+      "id": 1
+    },
+    {
+      "name": "Kiran A",
+      "age": "25",
+      "email": "kiran@gmail.com",
+      "bloodGroup": "B",
+      "location": "Ernakulam",
+      "num": "123456789",
+      "id": 2
+    },
+    {
+      "name": "Shinas Nazar",
+      "age": "27",
+      "email": "shinas@gmail.com",
+      "bloodGroup": "O",
+      "location": "Malappuram ",
+      "num": "8848266306",
+      "id": 3
+    },
+    {
+      "name": "Farook",
+      "age": "27",
+      "email": "farook@gmail.com",
+      "bloodGroup": "AB",
+      "location": "Kottayam ",
+      "num": "123456789",
+      "id": 3
+    }
+  ],
   "create": [
     {
       "username": "kirana123",
@@ -24,6 +61,18 @@
       "email": "sample1",
       "password": "sample1",
       "id": 4
+    },
+    {
+      "username": "Najas",
+      "email": "Najas@gmail.com",
+      "password": "Najas123",
+      "id": 5
+    },
+    {
+      "username": "Kiran",
+      "email": "Kiran@gmail.com",
+      "password": "Kiran123",
+      "id": 6
     }
   ],
   "admin": [
